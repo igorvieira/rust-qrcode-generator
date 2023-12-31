@@ -5,7 +5,6 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
 cargo build
 ```
 
